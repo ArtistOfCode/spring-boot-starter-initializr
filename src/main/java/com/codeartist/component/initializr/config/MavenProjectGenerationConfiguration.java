@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Primary;
 /**
  * 自定义脚手架生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/1
  */
 @ProjectGenerationConfiguration

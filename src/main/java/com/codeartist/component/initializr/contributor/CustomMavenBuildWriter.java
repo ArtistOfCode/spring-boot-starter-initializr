@@ -21,7 +21,7 @@ import java.util.stream.Stream;
 /**
  * 自定义Maven项目生成类
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/2
  */
 public class CustomMavenBuildWriter {

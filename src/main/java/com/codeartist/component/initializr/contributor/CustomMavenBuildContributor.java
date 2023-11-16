@@ -14,7 +14,7 @@ import java.nio.file.Path;
 /**
  * Maven项目生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/5
  */
 public class CustomMavenBuildContributor implements BuildWriter, ProjectContributor {

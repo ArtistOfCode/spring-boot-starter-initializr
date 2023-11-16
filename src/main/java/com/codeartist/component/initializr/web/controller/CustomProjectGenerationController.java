@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 自定义项目脚手架控制器
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/4
  */
 @Controller

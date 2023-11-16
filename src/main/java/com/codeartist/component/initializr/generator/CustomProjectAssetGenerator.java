@@ -18,7 +18,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 /**
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/5
  */
 public class CustomProjectAssetGenerator implements ProjectAssetGenerator<Path> {

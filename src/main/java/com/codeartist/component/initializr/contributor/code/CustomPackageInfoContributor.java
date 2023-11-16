@@ -14,7 +14,7 @@ import java.nio.file.Path;
 /**
  * package-info.java生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/6
  */
 public class CustomPackageInfoContributor implements ProjectContributor {

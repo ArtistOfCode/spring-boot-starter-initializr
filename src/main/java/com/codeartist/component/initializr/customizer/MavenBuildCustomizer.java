@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Maven构建定制
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/3
  */
 public class MavenBuildCustomizer implements BuildCustomizer<CustomMavenBuild> {

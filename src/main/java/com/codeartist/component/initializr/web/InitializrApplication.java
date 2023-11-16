@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 码匠SpringBoot项目脚手架
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/5/24
  */
 @SpringBootApplication

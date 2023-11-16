@@ -8,7 +8,7 @@ import java.nio.file.Path;
 /**
  * application.yaml生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/6
  */
 public class CustomApplicationYamlContributor extends SingleResourceProjectContributor {

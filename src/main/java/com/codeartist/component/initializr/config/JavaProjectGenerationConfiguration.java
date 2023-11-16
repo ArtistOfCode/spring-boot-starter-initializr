@@ -19,7 +19,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * Java项目生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/6
  */
 @ProjectGenerationConfiguration

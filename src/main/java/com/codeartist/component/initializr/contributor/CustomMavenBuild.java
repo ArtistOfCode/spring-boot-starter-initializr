@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 自定义Maven项目构建实体
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/2
  */
 public class CustomMavenBuild extends MavenBuild {

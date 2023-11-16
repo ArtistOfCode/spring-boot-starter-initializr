@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 /**
  * 单元测试源码生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/6
  */
 public class CustomTestSourceContributor<T extends TypeDeclaration, C extends CompilationUnit<T>, S extends SourceCode<T, C>>

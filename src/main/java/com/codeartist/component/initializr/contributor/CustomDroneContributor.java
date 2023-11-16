@@ -11,7 +11,7 @@ import java.nio.file.Path;
 /**
  * .drone.yml生成配置
  *
- * @author J.N.AI
+ * @author AiJiangnan
  * @date 2023/6/5
  */
 public class CustomDroneContributor implements ProjectContributor {
